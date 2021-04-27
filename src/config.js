@@ -1,2 +1,2 @@
-const apiPath = 'http://3.133.88.59:5000/api'
+const apiPath = 'https://restapicoursenodejs.herokuapp.com/api'
 export default apiPath;
